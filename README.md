@@ -25,4 +25,4 @@ Folders Training and Test contain images for training and testing purposes.
 Folder test-multiple_fruits contains images with multiple fruits. Some of them are partially covered by other fruits. This is an excelent test for real-world detection. In the future after the first version of the nerual network we will extend this folder with pictures containing furits in plastic bags.
 
 ### Dataset origin
-This dataset is originated from https://github.com/Horea94/Fruit-Images-Dataset.
+This dataset is originated from https://github.com/Horea94/Fruit-Images-Dataset project, which is under MIT License.
