@@ -20,7 +20,7 @@ Filename format: image_index_100.jpg (e.g. 32_100.jpg) or r_image_index_100.jpg 
 Different varieties of the same fruit (apple for instance) are stored as belonging to different classes.
 
 ### Repository structure
-Folders Training and Test contain images for training and testing purposes.
+Folders Training and Test contain images for training and validation/testing purposes.
 
 Folder test-multiple_fruits contains images with multiple fruits. Some of them are partially covered by other fruits. This is an excelent test for real-world detection. In the future after the first version of the nerual network we will extend this folder with pictures containing furits in plastic bags.
 
