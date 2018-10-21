@@ -1,4 +1,4 @@
-# DeepFruit ;)
+# DeepFruit
 
 ## Project description
 The aim of this project is to write AI software that can recognize fruits (and later vegetables) in plastic bags from close (<1m) distance.
